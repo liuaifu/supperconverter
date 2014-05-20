@@ -6,3 +6,8 @@ incoming features
 ========
 * convert text to image
 * convert image to text
+
+todo
+====
+* invesgate the other converter projects status
+  by Edwin
