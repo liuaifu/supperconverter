@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Windows.Forms;
 
-namespace 转换工具集
+namespace superconverter
 {
     static class Program
     {
@@ -15,7 +13,7 @@ namespace 转换工具集
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SuperConvertWindow());
         }
     }
 }
